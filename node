@@ -1,0 +1,182 @@
+Script started on 2024-08-04 17:25:14+00:00 [TERM="xterm-256color" TTY="/dev/pts/1" COLUMNS="125" LINES="16"]
+[0;32m@SazedurKhan [0m➜ [1;34m/workspaces/madlibs [0;36m([1;31mmain[0;36m) [0m$ node script
+mountain
+/workspaces/madlibs/script.js:5
+let username = prompt("Enter your name:")
+               ^
+
+ReferenceError: prompt is not defined
+    at Object.<anonymous> [90m(/workspaces/madlibs/[39mscript.js:5:16[90m)[39m
+[90m    at Module._compile (node:internal/modules/cjs/loader:1358:14)[39m
+[90m    at Module._extensions..js (node:internal/modules/cjs/loader:1416:10)[39m
+[90m    at Module.load (node:internal/modules/cjs/loader:1208:32)[39m
+[90m    at Module._load (node:internal/modules/cjs/loader:1024:12)[39m
+[90m    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:174:12)[39m
+[90m    at node:internal/main/run_main_module:28:49[39m
+
+Node.js v20.15.1
+[0;32m@SazedurKhan [1;31m➜ [1;34m/workspaces/madlibs [0;36m([1;31mmain[0;36m) [0m$ node script
+/workspaces/madlibs/script.js:8
+let username = prompt("Enter your name:");
+               ^
+
+ReferenceError: prompt is not defined
+    at Object.<anonymous> [90m(/workspaces/madlibs/[39mscript.js:8:16[90m)[39m
+[90m    at Module._compile (node:internal/modules/cjs/loader:1358:14)[39m
+[90m    at Module._extensions..js (node:internal/modules/cjs/loader:1416:10)[39m
+[90m    at Module.load (node:internal/modules/cjs/loader:1208:32)[39m
+[90m    at Module._load (node:internal/modules/cjs/loader:1024:12)[39m
+[90m    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:174:12)[39m
+[90m    at node:internal/main/run_main_module:28:49[39m
+
+Node.js v20.15.1
+[0;32m@SazedurKhan [1;31m➜ [1;34m/workspaces/madlibs [0;36m([1;31mmain[0;36m) [0m$ nod sc[K[K[Ke script
+mountain
+Once upon a time there was a wildfahimroaming the forest, searching for food. Nearing the end of the forest,fahimfinds a tall mountain. After seeing the mountain fahim decides to tall to the top of the mountain.After finishing the trip fahim checks their phone and finds that they have 20000 steps for the day and decides its time to go home.
+[0;32m@SazedurKhan [0m➜ [1;34m/workspaces/madlibs [0;36m([1;31mmain[0;36m) [0m$ node script
+mountain
+Once upon a time there was a wild fahim roaming the forest, searching for food. Nearing the end of the forest,fahimfinds a tall mountain. After seeing the mountain fahim decides to tall to the top of the mountain.After finishing the trip fahim checks their phone and finds that they have 20000 steps for the day and decides its time to go home.
+[0;32m@SazedurKhan [0m➜ [1;34m/workspaces/madlibs [0;36m([1;31mmain[0;36m) [0m$ nod esr[K[K[K[K [Ke scrit[Kpt
+mountain
+Once upon a time there was a wild fahim roaming the forest, searching for food. Nearing the end of the forest,fahimfinds a tall mountain. After seeing the mountain fahim decides to tall to the top of the mountain. After finishing the trip fahim checks their phone and finds that they have 20000 steps for the day and decides its time to go home.
+[0;32m@SazedurKhan [0m➜ [1;34m/workspaces/madlibs [0;36m([1;31mmain[0;36m) [0m$ node script
+mountain
+Once upon a time there was a wild fahim roaming the forest, searching for food. Nearing the end of the forest, fahim finds a tall mountain. After seeing the mountain fahim decides to tall to the top of the mountain. After finishing the trip fahim checks their phone and finds that they have 20000 steps for the day and decides its time to go home.
+[0;32m@SazedurKhan [0m➜ [1;34m/workspaces/madlibs [0;36m([1;31mmain[0;36m) [0m$ console.l[K[K[K[K[K[K[K[K[Knode script
+mountain
+/workspaces/madlibs/script.js:7
+var username = prompt("Enter your name: ")
+               ^
+
+ReferenceError: prompt is not defined
+    at Object.<anonymous> [90m(/workspaces/madlibs/[39mscript.js:7:16[90m)[39m
+[90m    at Module._compile (node:internal/modules/cjs/loader:1358:14)[39m
+[90m    at Module._extensions..js (node:internal/modules/cjs/loader:1416:10)[39m
+[90m    at Module.load (node:internal/modules/cjs/loader:1208:32)[39m
+[90m    at Module._load (node:internal/modules/cjs/loader:1024:12)[39m
+[90m    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:174:12)[39m
+[90m    at node:internal/main/run_main_module:28:49[39m
+
+Node.js v20.15.1
+[0;32m@SazedurKhan [1;31m➜ [1;34m/workspaces/madlibs [0;36m([1;31mmain[0;36m) [0m$ node script
+mountain
+/workspaces/madlibs/script.js:7
+var username = prompt("Enter your name: ");
+               ^
+
+ReferenceError: prompt is not defined
+    at Object.<anonymous> [90m(/workspaces/madlibs/[39mscript.js:7:16[90m)[39m
+[90m    at Module._compile (node:internal/modules/cjs/loader:1358:14)[39m
+[90m    at Module._extensions..js (node:internal/modules/cjs/loader:1416:10)[39m
+[90m    at Module.load (node:internal/modules/cjs/loader:1208:32)[39m
+[90m    at Module._load (node:internal/modules/cjs/loader:1024:12)[39m
+[90m    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:174:12)[39m
+[90m    at node:internal/main/run_main_module:28:49[39m
+
+Node.js v20.15.1
+[0;32m@SazedurKhan [1;31m➜ [1;34m/workspaces/madlibs [0;36m([1;31mmain[0;36m) [0m$ node sritp[K[K[K[Kcrr[Kipt
+mountain
+/workspaces/madlibs/script.js:7
+var username = prompt("Enter your name: ");
+               ^
+
+ReferenceError: prompt is not defined
+    at Object.<anonymous> [90m(/workspaces/madlibs/[39mscript.js:7:16[90m)[39m
+[90m    at Module._compile (node:internal/modules/cjs/loader:1358:14)[39m
+[90m    at Module._extensions..js (node:internal/modules/cjs/loader:1416:10)[39m
+[90m    at Module.load (node:internal/modules/cjs/loader:1208:32)[39m
+[90m    at Module._load (node:internal/modules/cjs/loader:1024:12)[39m
+[90m    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:174:12)[39m
+[90m    at node:internal/main/run_main_module:28:49[39m
+
+Node.js v20.15.1
+[0;32m@SazedurKhan [1;31m➜ [1;34m/workspaces/madlibs [0;36m([1;31mmain[0;36m) [0m$ npm init
+This utility will walk you through creating a package.json file.
+It only covers the most common items, and tries to guess sensible defaults.
+
+See `npm help init` for definitive documentation on these fields
+and exactly what they do.
+
+Use `npm install <pkg>` afterwards to install a package and
+save it as a dependency in the package.json file.
+
+Press ^C at any time to quit.
+[1G[0K[1G[0Jpackage name: (madlibs) [25Gnpm install prompt-sync
+Sorry, name can only contain URL-friendly characters.
+[1G[0Jpackage name: (madlibs) [25Gnpm install prompt-sync
+Sorry, name can only contain URL-friendly characters.
+[1G[0Jpackage name: (madlibs) [25Gnmode sr[1G[0Jpackage name: (madlibs) nmode s[32G[1G[0Jpackage name: (madlibs) nmode [31G[1G[0Jpackage name: (madlibs) nmode[30G[1G[0Jpackage name: (madlibs) nmod[29G[1G[0Jpackage name: (madlibs) nmo[28G[1G[0Jpackage name: (madlibs) nm[27G[1G[0Jpackage name: (madlibs) n[26Gode script
+Sorry, name can only contain URL-friendly characters.
+[1G[0Jpackage name: (madlibs) [25G^c
+Sorry, name can only contain URL-friendly characters.
+[1G[0Jpackage name: (madlibs) [25G^C
+Sorry, name can only contain URL-friendly characters and name can no longer contain capital letters.
+[1G[0Jpackage name: (madlibs) [25Gnode sript
+Sorry, name can only contain URL-friendly characters.
+[1G[0Jpackage name: (madlibs) [25Gnode sript
+Sorry, name can only contain URL-friendly characters.
+[1G[0Jpackage name: (madlibs) [25Gnpm init
+Sorry, name can only contain URL-friendly characters.
+[1G[0Jpackage name: (madlibs) [25Gnpm install prompt-sync
+Sorry, name can only contain URL-friendly characters.
+[1G[0Jpackage name: (madlibs) [25G^C^C[1G[0Jpackage name: (madlibs) ^C^[28G[1G[0Jpackage name: (madlibs) ^C[27G
+Sorry, name can only contain URL-friendly characters and name can no longer contain capital letters.
+[1G[0Jpackage name: (madlibs) [25G^c
+Sorry, name can only contain URL-friendly characters.
+[1G[0Jpackage name: (madlibs) [25Gsa
+[1G[0Jversion: (1.0.0) [18G
+[1G[0Jdescription: [14Gnode script
+[1G[0Jentry point: (script.js) [26G
+[1G[0Jtest command: [15G
+[1G[0Jgit repository: [17G
+[1G[0Jkeywords: [11G
+[1G[0Jauthor: [9G
+[1G[0Jlicense: (ISC) [16G
+About to write to /workspaces/madlibs/package.json:
+
+{
+  "name": "sa",
+  "version": "1.0.0",
+  "description": "node script",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
+
+
+[1G[0JIs this OK? (yes) [19G
+
+[1G[0K⠙[1G[0K[0;32m@SazedurKhan [0m➜ [1;34m/workspaces/madlibs [0;36m([1;31mmain[0;36m) [0m$ 
+[0;32m@SazedurKhan [0m➜ [1;34m/workspaces/madlibs [0;36m([1;31mmain[0;36m) [0m$ node script
+mountain
+/workspaces/madlibs/script.js:7
+let username = prompt("Enter your name: ")
+               ^
+
+ReferenceError: prompt is not defined
+    at Object.<anonymous> [90m(/workspaces/madlibs/[39mscript.js:7:16[90m)[39m
+[90m    at Module._compile (node:internal/modules/cjs/loader:1358:14)[39m
+[90m    at Module._extensions..js (node:internal/modules/cjs/loader:1416:10)[39m
+[90m    at Module.load (node:internal/modules/cjs/loader:1208:32)[39m
+[90m    at Module._load (node:internal/modules/cjs/loader:1024:12)[39m
+[90m    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:174:12)[39m
+[90m    at node:internal/main/run_main_module:28:49[39m
+
+Node.js v20.15.1
+[0;32m@SazedurKhan [1;31m➜ [1;34m/workspaces/madlibs [0;36m([1;31mmain[0;36m) [0m$ npm install prompt-sync
+[1G[0K⠙[1G[0K⠹[1G[0K⠸[1G[0K⠼[1G[0K
+added 3 packages, and audited 4 packages in 565ms
+[1G[0K⠼[1G[0K
+found [32m[1m0[22m[39m vulnerabilities
+[1G[0K⠼[1G[0K[0;32m@SazedurKhan [0m➜ [1;34m/workspaces/madlibs [0;36m([1;31mmain[0;36m) [0m$ node script
+mountain
+Enter your name: [s[2K[0GEnter your name: F[19G[s[2K[0GEnter your name: Fa[20G[s[2K[0GEnter your name: Fah[21G[s[2K[0GEnter your name: Fahi[22G[s[2K[0GEnter your name: Fahim[23G
+Once upon a time there was a wild Fahim roaming the forest, searching for food. Nearing the end of the forest, Fahim finds a tall mountain. After seeing the mountain Fahim decides to tall to the top of the mountain. After finishing the trip Fahim checks their phone and finds that they have 20000 steps for the day and decides its time to go home.
+[0;32m@SazedurKhan [0m➜ [1;34m/workspaces/madlibs [0;36m([1;31mmain[0;36m) [0m$ nod es[K[K[Ke script
+mountain
+Enter your name: [s[2K[0GEnter your name: S[19G[s[2K[0GEnter your name: Sa[20G[s[2K[0GEnter your name: Saz[21G
+Once upon a time there was a wild Saz roaming the forest, searching for food. Nearing the end of the forest, Saz finds a tall mountain. After seeing the mountain Saz decides to tall to the top of the mountain. After finishing the trip Saz checks their phone and finds that they have 20000 steps for the day and decides its time to go home. Later that day Saz reflected and found that it was true what their teacher had told them. Spending time in the wild on your own is a good way to find peace.
+[0;32m@SazedurKhan [0m➜ [1;34m/workspaces/madlibs [0;36m([1;31mmain[0;36m) [0m$ [K[0;32m@SazedurKhan [0m➜ [1;34m/workspaces/madlibs [0;36m([1;31mmain[0;36m) [0m$ [K[0;32m@SazedurKhan [0m➜ [1;34m/workspaces/madlibs [0;36m([1;31mmain[0;36m) [0m$ [K[0;32m@SazedurKhan [0m➜ [1;34m/workspaces/madlibs [0;36m([1;31mmain[0;36m) [0m$ [K[0;32m@SazedurKhan [0m➜ [1;34m/workspaces/madlibs [0;36m([1;31mmain[0;36m) [0m$ [K[0;32m@SazedurKhan [0m➜ [1;34m/workspaces/madlibs [0;36m([1;31mmain[0;36m) [0m$ [K[0;32m@SazedurKhan [0m➜ [1;34m/workspaces/madlibs [0;36m([1;31mmain[0;36m) [0m$ [K[0;32m@SazedurKhan [0m➜ [1;34m/workspaces/madlibs [0;36m([1;31mmain[0;36m) 
